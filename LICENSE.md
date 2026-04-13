@@ -1,62 +1,58 @@
-# CAS License (Non-Commercial Research License v1.2)
+CAS License v1.2 (Custom License)
 
-CAS (Comprehensive Alignment System) is made available under the following non-commercial research license.
+Copyright (c) CAS (Comprehensive Alignment System)
 
-## Core Principle
-CAS is open to learn, but licensed to deploy.
+This license governs the CAS architecture, including all associated documentation, structural models, and published frameworks.
 
 ---
 
-## 1. Permitted Use
+1. Permission for Non-Commercial Use
 
-You may use CAS for:
+You are permitted to use, study, reference, and evaluate this material for non-commercial purposes only, including:
 
 - Academic research
+- Personal study and evaluation
 - Non-profit experimentation
-- Evaluation and study
-- Internal non-commercial analysis
+- Internal review not connected to commercial activity
 
-Provided that:
-
-- Use is strictly non-commercial
-- No production deployment occurs
-- CAS is not integrated into revenue-generating systems
+Non-commercial use does not include any deployment, integration, or use within a for-profit organisation’s operational systems.
 
 ---
 
-## 2. Definition of Non-Profit Organisation
+2. Commercial Use Restriction
 
-A “non-profit organisation” means an entity that is legally recognised as not-for-profit under its governing jurisdiction and that does not primarily serve the commercial interests of its members, shareholders, or controlling stakeholders.
+Commercial use of CAS is not permitted under this license.
 
----
+Commercial use includes, but is not limited to:
 
-## 3. Prohibited Use
+- Use within a for-profit organisation (including internal systems or R&D)
+- Integration into products or services offered for sale
+- Use in system architecture, infrastructure, or operational workflows
+- Use in artificial intelligence systems, including training, fine-tuning, or embedding
+- Redistribution or sublicensing for commercial purposes
 
-You may NOT:
-
-- Use CAS for any commercial purpose
-- Deploy CAS in production systems
-- Embed CAS into any revenue-generating product or service
-- Use CAS in internal systems of for-profit organisations
-- Use CAS to train or architect proprietary AI systems
-- Redistribute or sublicense CAS
+All commercial use requires a separate written commercial license agreement with the CAS rights holder.
 
 ---
 
-## 4. Commercial Use
+3. Supersession of Prior Licenses
 
-All commercial use requires a separate written commercial license agreement.
+This license supersedes any prior open-source or Creative Commons licensing applied to CAS materials, including but not limited to CC BY-NC-ND 4.0.
 
-Commercial use includes any use by a for-profit entity, including internal use.
-
----
-
-## 5. Term
-
-This license is valid for 6 months from first use for qualifying Tier 1 users and may be renewed only upon review.
+Any previous license terms are no longer applicable to this repository or its contents.
 
 ---
 
-## 6. No Warranty
+4. No Transfer of Ownership
 
-CAS is provided “as is”, without warranty of any kind.
+This license grants usage rights only. Ownership of CAS, its architecture, and all derived structural definitions remains with the author(s).
+
+---
+
+5. Disclaimer
+
+This material is provided “as is”, without warranty of any kind. Use at your own risk.
+
+---
+
+End of License

@@ -126,8 +126,11 @@ LICENSE.md
 CAS License v2.0 — global base licence (non-commercial)
 COMMERCIAL.md
 Commercial tiers and Enterprise License Agreement template
-CAS_Operational_Spec_v1.0.md
-Technical operational specification
+| `CAS_Operational_Spec_v1.0.md` | Technical operational specification |
+| `CAS_ADDENDUM_EU_v1.0.md` | EU Compliance Addendum — GDPR, EU AI Act |
+| `CAS_ADDENDUM_APAC_v1.0.md` | Asia-Pacific Compliance Addendum |
+| `CAS_ADDENDUM_US_v1.0.md` | US Compliance Addendum — IP, CCPA, AI |
+| `CAS_ADVERSARIAL_TEST_REPORT_v1.0.md` | Adversarial stress test report |
 README.md
 This document
 index.html
